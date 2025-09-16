@@ -1,0 +1,15 @@
+[project]
+name = "codetestd12cc2d60f874c63bd727ac74e3c9d53"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.9"
+dependencies = [
+  "tensorflow[and-cuda]==2.20.*",
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "matplotlib>=3.8",
+  "opencv-python>=4.9",
+  "scikit-image>=0.22",
+  "ipykernel>=6.28",
+]
